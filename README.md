@@ -110,6 +110,31 @@ The numbered callouts on each screenshot mark what each part of the screen does;
 >
 > **Note**　On victory, progress is written to `level_progress.json`. After the boss level (Level 5) is cleared, the chapter's story plays before the game returns to level selection.
 
+### 6. 劇情 Story
+
+<table>
+<tr>
+<td width="50%"><img src="doc/readme/08-story-narration.jpg" alt="旁白頁 Narration page"></td>
+<td width="50%"><img src="doc/readme/09-story-prologue.jpg" alt="前情提要 Prologue"></td>
+</tr>
+<tr>
+<td align="center"><b>旁白頁</b>：前情提要的開場<br><b>Narration</b>: opening of the prologue</td>
+<td align="center"><b>前情提要</b>：四大天王登場<br><b>Prologue</b>: the Four Heavenly Kings appear</td>
+</tr>
+<tr>
+<td width="50%"><img src="doc/readme/10-story-dialogue.jpg" alt="對話頁 Dialogue page"></td>
+<td width="50%"><img src="doc/readme/11-story-chapter.jpg" alt="章節劇情 Chapter story"></td>
+</tr>
+<tr>
+<td align="center"><b>對話頁</b>：角色立繪、名牌與對話框<br><b>Dialogue</b>: character portrait, name plate and text box</td>
+<td align="center"><b>章節劇情</b>：通過魔王關後播放<br><b>Chapter story</b>: plays after the boss level</td>
+</tr>
+</table>
+
+> **說明**　劇情分為前情提要與五個章節，共 942 頁，以校園實景為背景，分為旁白頁與對話頁兩種版面。首次遊玩時播放前情提要，之後每通過一章的魔王關，就播放該章劇情。玩家點擊滑鼠左鍵換頁。
+>
+> **Note**　The story consists of a prologue and five chapters, 942 pages in all, set against photographs of the campus and laid out as either narration pages or dialogue pages. The prologue plays on the first run, and each chapter's story plays once its boss level is cleared. A left click advances the page.
+
 ---
 
 ## 系統設計 System Design
